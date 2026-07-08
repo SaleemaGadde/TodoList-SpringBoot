@@ -29,6 +29,9 @@ The To-Do List is a task management web application developed using Spring Boot.
 ## Project Structure
 
 text
+## Project Structure
+
+
 src/
 ├── controller/
 ├── entity/
@@ -37,7 +40,7 @@ src/
 ├── service/impl/
 ├── templates/
 ├── static/
-└── application.properties
+└── application.propertiess
 
 
 ## Installation
