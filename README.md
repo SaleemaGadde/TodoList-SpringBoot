@@ -45,7 +45,8 @@ src/
 2. Open the project in Eclipse or IntelliJ IDEA.
 3. Configure MySQL and update the database details in application.properties.
 4. Run the Spring Boot application.
-5. Open your browser and visit: http://localhost:8080/
+5. Open your browser and visit:
+http://localhost:8080/
 
 
 
@@ -55,8 +56,8 @@ src/
 A demonstration of the To-Do List application is available below.
 
 ## Project Demo: 
-https://github.com/SaleemaGadde/TodoList-
-SpringBoot/blob/e350ea704aa909e9411c755b008140c9ad272117/ToDoList/28.06.2026_14.02.54_REC.mp4
+
+https://github.com/SaleemaGadde/TodoList-SpringBoot/blob/e350ea704aa909e9411c755b008140c9ad272117/ToDoList/28.06.2026_14.02.54_REC.mp4
 
 ## Future Enhancements
 
