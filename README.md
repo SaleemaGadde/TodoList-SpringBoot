@@ -5,7 +5,6 @@
 The To-Do List is a task management web application developed using Spring Boot. It enables users to efficiently create, view, update, and delete tasks through a simple and user-friendly interface. The application demonstrates CRUD operations and follows the MVC architecture.
 
 ## Features
-
 - Add New Tasks
 - View Task List
 - Update Existing Tasks
@@ -15,7 +14,6 @@ The To-Do List is a task management web application developed using Spring Boot.
 - Database Integration with MySQL
 
 ## Technologies Used
-
 - Java
 - Spring Boot
 - Spring Data JPA
@@ -26,7 +24,7 @@ The To-Do List is a task management web application developed using Spring Boot.
 - MySQL
 - Maven
 
-## Project Structure
+  ## Project Structure
 ```text
 src/
 ├── controller/
@@ -37,8 +35,7 @@ src/
 ├── templates/
 ├── static/
 └── application.properties
-
-
+```
 ## Installation
 
 1. Clone the repository.
@@ -80,4 +77,5 @@ This project helped me gain practical experience in:
 
 **Gadde Saleema**
 
-Java Full Stack Developer
+Java Full Stack De
+
