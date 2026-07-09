@@ -55,7 +55,8 @@ src/
 A demonstration of the To-Do List application is available below.
 
 ## Project Demo: 
-https://github.com/SaleemaGadde/TodoList-SpringBoot/blob/e350ea704aa909e9411c755b008140c9ad272117/ToDoList/28.06.2026_14.02.54_REC.mp4
+https://github.com/SaleemaGadde/TodoList-
+SpringBoot/blob/e350ea704aa909e9411c755b008140c9ad272117/ToDoList/28.06.2026_14.02.54_REC.mp4
 
 ## Future Enhancements
 
